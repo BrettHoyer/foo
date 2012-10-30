@@ -1,2 +1,1 @@
-Zach Zuber
-Brett Hoyer is the creator of this project
+Let's create a merge conflict!
